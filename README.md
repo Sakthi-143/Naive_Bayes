@@ -1,6 +1,6 @@
 # Naive_Bayes
 
-
+ 
 # Naive Bayes Classification Model for Salary Prediction
 
 ## Overview
