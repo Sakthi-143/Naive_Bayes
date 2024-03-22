@@ -15,7 +15,7 @@ The dataset consists of the following features:
 - `occupation`: Occupation of the individual 
 - `relationship`: Relationship status  
 - `race`: Race of the individual
-- `sex`: Gender of the individual  
+- `sex`: Gender of the individual   
 - `capitalgain`: Capital gain from investments
 - `capitalloss`: Capital loss from investments
 - `hoursperweek`: Number of hours worked per week
