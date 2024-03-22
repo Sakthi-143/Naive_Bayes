@@ -12,7 +12,7 @@ The dataset consists of the following features:
 - `workclass`: Type of work classification  
 - `education`: Level of education  
 - `maritalstatus`: Marital status of the individual 
-- `occupation`: Occupation of the individual 
+- `occupation`: Occupation of the individual  
 - `relationship`: Relationship status  
 - `race`: Race of the individual
 - `sex`: Gender of the individual   
