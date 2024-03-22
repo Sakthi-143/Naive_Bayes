@@ -7,7 +7,7 @@
 This repository contains a Jupyter Notebook (`Naive_Bayes_Assignment.ipynb`) that implements a classification model using Naive Bayes for predicting salary based on various features. The dataset used for this analysis includes information about individuals' demographics and employment details. 
 
 ## Data Description
-The dataset consists of the following features: 
+The dataset consists of the following features:  
 - `age`: Age of the individual 
 - `workclass`: Type of work classification  
 - `education`: Level of education  
