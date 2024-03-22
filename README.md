@@ -13,7 +13,7 @@ The dataset consists of the following features:
 - `education`: Level of education
 - `maritalstatus`: Marital status of the individual
 - `occupation`: Occupation of the individual
-- `relationship`: Relationship status 
+- `relationship`: Relationship status  
 - `race`: Race of the individual
 - `sex`: Gender of the individual
 - `capitalgain`: Capital gain from investments
