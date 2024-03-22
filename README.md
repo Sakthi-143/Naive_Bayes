@@ -9,7 +9,7 @@ This repository contains a Jupyter Notebook (`Naive_Bayes_Assignment.ipynb`) tha
 ## Data Description
 The dataset consists of the following features:
 - `age`: Age of the individual
-- `workclass`: Type of work classification
+- `workclass`: Type of work classification 
 - `education`: Level of education
 - `maritalstatus`: Marital status of the individual
 - `occupation`: Occupation of the individual
