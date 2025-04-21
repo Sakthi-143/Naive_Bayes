@@ -1,5 +1,3 @@
-
-
 # Naive_Bayes
 
  
